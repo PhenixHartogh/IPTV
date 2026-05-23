@@ -194,7 +194,8 @@ https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
 http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr@SD",Kanal B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr@SD",Kanal D 
+#EXTINF:-1 tvg-id="KanalD.tr@SD",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="KanalDDrama.tr@SD",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
