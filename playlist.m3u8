@@ -195,7 +195,7 @@ http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr@SD",Kanal B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr@SD",Kanal D 
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1779554420/ei/FIQRasnqFfSBjuMP0OOWuQs/ip/79.127.155.81/id/DWTZdz4LQbY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-ajhxac-5c.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/au/bui/AbKmrwrT6UI7XswZE5FACEF4r8FdqKTQFDeAryR-avmoDL6q_9fECbyUXt8WzQyexKpD1-c4JIMhqb_6/spc/96Xrvx5o89QEM-HboBfvMJEAkE-N7QilUmMfy2qQn2q724_WmA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1833750/met/1779532821,/mh/JH/mm/44/mn/sn-ajhxac-5c/ms/lva/mv/m/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1779532354/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgdbaZXwTw82WPIy-8m3zIyT0qnLNI6Gk47et3M9It2rACIGcS6Eu3kx8HkFo0GVaBTOB3_IbV9fD4bPUMY5dIAoce/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJ1ps3A5MdZCVZFpWtqNlycTuww74nWIGIlAPVXYikp-AiA1az50N084RDKXiulAzru87rrY-YNr3ZtQiUcCwtDlNA%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="KanalDDrama.tr@SD",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalFirat.tr@SD",Kanal Firat
